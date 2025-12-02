@@ -34,7 +34,7 @@ $watch('darkMode', value => localStorage.setItem('darkMode', JSON.stringify(valu
                         <div class="mb-5 sm:mb-8">
                             <h1
                                 class="mb-2 font-semibold text-gray-800 text-title-sm dark:text-white/90 sm:text-title-md">
-                                Login Laundry Nasril
+                                Login Laundry
                             </h1>
                             <p class="text-sm text-gray-500 dark:text-gray-400">
                                 Enter your email and password to log in!
